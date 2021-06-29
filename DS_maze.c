@@ -64,8 +64,7 @@ int main()
                 printf("YOU WIN!!!");
             else
                 printf("YOU LOSE!!!");
-            Sleep(1000);
-            
+            Sleep(800);
         }
         else if(choice == 2)
             editMaze();
